@@ -1,0 +1,16 @@
+services:
+  webapplication2:
+    build:
+      context: C:\Users\susu\source\repos\WebApplication2\test
+      dockerfile: Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_URLS: https://+:443;http://+:80
+    image: webapplication2
+    ports:
+    - target: 80
+    - target: 443
+    volumes:
+    - C:\Users\susu\AppData\Roaming\ASP.NET\Https:/root/.aspnet/https:ro
+    - C:\Users\susu\AppData\Roaming\Microsoft\UserSecrets:/root/.microsoft/usersecrets:ro
+version: '3.4'
