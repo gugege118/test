@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "W1A14z6871XP9lcCT91zosfcguo+4sf2qy9owhEHNd2T98SeAQN859kVXmQOAqfU1hLw5sOp6ELjMdF/woOxtQ==",
+  "dgSpecHash": "ujDxObs5/xZM1b3890ep5fSufYa309DiL05Lc5fWr0egA7UDCuLCXWQiaOvPut6xGk6u0bdwSCQ5ReJ2roHbMQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\susu\\source\\repos\\WebApplication2\\WebApplication2.csproj",
+  "projectFilePath": "C:\\Users\\susu\\source\\repos\\WebApplication2\\test\\WebApplication2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\susu\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.8\\microsoft.visualstudio.azure.containers.tools.targets.1.10.8.nupkg.sha512"
   ],
